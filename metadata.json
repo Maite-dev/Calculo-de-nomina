@@ -1,0 +1,6 @@
+{
+  "name": "Nómina Semanal & Cálculo de Mora BCV",
+  "description": "Calculadora de salarios semanales, semanas pendientes con mora del 20%, semana de fondo y tasa oficial del Banco Central de Venezuela (BCV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
